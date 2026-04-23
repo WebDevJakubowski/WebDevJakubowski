@@ -1,4 +1,4 @@
-# 👋 Cześć, jestem @WebDevJakubowski https://informatyktrojmiasto.cfolks.pl/
+# 👋 Cześć, jestem @WebDevJakubowski https://informatyktrojmiasto.pl/
 
 🎯 Frontend & Backend Developer z pasją do tworzenia stron i aplikacji internetowych w różnych technologiach.
 
