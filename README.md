@@ -1,45 +1,42 @@
-# 👋 Cześć, jestem @WebDevJakubowski https://informatyktrojmiasto.pl/
+# 👋 Cześć, jestem @WebDevJakubowski
 
-🎯 Frontend & Backend Developer z pasją do tworzenia stron i aplikacji internetowych w różnych technologiach.
+🌐 https://informatyktrojmiasto.pl/
+💼 Useme: https://useme.com/pl/roles/contractor/piotr-jakubowski,534770/
 
----
-
-## 👀 Zainteresowania
-
-- Tworzenie stron internetowych i aplikacji webowych
-- Technologie: **WordPress, HTML, CSS, JavaScript, React.js, TypeScript, Next.js, Node.js**
-- Frameworki: **Tailwind CSS, Bootstrap, Laravel, jQuery**
-- Backend: **PHP, Laravel, ExpressJS**
-- Stylowanie: **Tailwind CSS, Bootstrap**
+Administrator IT z doświadczeniem w administracji środowisk Windows oraz wsparciu technicznym. Po godzinach zajmuję się tworzeniem stron internetowych i rozwijam się w kierunku web developmentu oraz WordPressa.
 
 ---
 
-## 🌱 Aktualnie uczę się
+##  Czym się zajmuję
 
-- 📘 **React.js** – komponenty, router, hooki, stan
-- 🎨 **Tailwind CSS** – utility-first styling
-- 🧱 **Bootstrap 5** – responsywny layout
-- 🛠️ **Laravel** – MVC, routing, Eloquent, autoryzacja
-- 💡 **jQuery** – AJAX, manipulacja DOM
+* Tworzenie stron internetowych opartych o WordPress
+* Tworzenie responsywnych interfejsów (RWD)
+* HTML / CSS / JavaScript / PHP
+* Tailwind CSS i Bootstrap
+* Optymalizacja stron oraz podstawy SEO
+* Git i podstawy pracy z repozytoriami
 
 ---
 
-## 🤝 Szukam współprac
+##  Aktualnie uczę się
 
-- ✅ Projekty oparte na Laravelu, React lub Next.js
-- ✅ Wspólna nauka i rozwój
-- ✅ Małe i średnie aplikacje webowe (panel, dashboard, blog, portfolio itd.)
+* React.js
+* Laravel
+* Tworzenia motywów i wtyczek WordPress
+* Lepszego wykorzystania PHP i GitFlow
+* Rozwoju w kierunku backendu i web aplikacji
+
+---
+
+##  Szukam współpracy przy
+
+* Stronach internetowych i projektach WordPress
+* Małych i średnich aplikacjach webowych
+* Projektach frontend/backend
+* Wspólnej nauce i rozwijaniu umiejętności
 
 ---
 
 ## 📫 Kontakt
 
-📩 E-mail: **pjakubowski220@gmail.com**  
-📍 GitHub: [github.com/WebDevJakubowski](https://github.com/WebDevJakubowski)
-
----
-
-<!---
-WebDevJakubowski/WebDevJakubowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📩 [pjakubowski220@gmail.com](mailto:pjakubowski220@gmail.com)
