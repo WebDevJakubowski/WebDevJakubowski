@@ -12,7 +12,7 @@ Administrator IT z doświadczeniem w administracji środowisk Windows oraz wspar
 * Tworzenie stron internetowych opartych o WordPress
 * Tworzenie responsywnych interfejsów (RWD)
 * HTML / CSS / JavaScript / PHP
-* Tailwind CSS i Bootstrap
+* Tailwind CSS i Bootstrap - nauka
 * Optymalizacja stron oraz podstawy SEO
 * Git i podstawy pracy z repozytoriami
 
