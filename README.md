@@ -3,7 +3,7 @@
 🌐 https://informatyktrojmiasto.pl/
 💼 Useme: https://useme.com/pl/roles/contractor/piotr-jakubowski,534770/
 
-Administrator IT z doświadczeniem w administracji środowisk Windows oraz wsparciu technicznym. Po godzinach zajmuję się tworzeniem stron internetowych i rozwijam się w kierunku web developmentu oraz WordPressa.
+Administrator IT z doświadczeniem w administracji środowisk Windows oraz wsparciu technicznym. Po godzinach zajmuję się tworzeniem stron internetowych.
 
 ---
 
